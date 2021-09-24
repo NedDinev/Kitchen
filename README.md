@@ -1,2 +1,2 @@
 # Kitchen
-Transitions
+<img src="kitchen-design.gif">
